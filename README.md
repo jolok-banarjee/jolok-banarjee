@@ -32,16 +32,8 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 |---|-------|-------|--------|
 | 1 | **An AI-Driven Integrated Framework for Turbofan Engine Health Monitoring, Fault Diagnosis, and Prognostics** | *Aerospace Science & Technology, Elsevier* |  Under Review |
 | 2 | **Sustainable Additive Manufacturing using rPET: Extrusion Design, Mechanical Testing, and Data-Driven Prediction** | *Manuscript Ready* |  Ready |
-| 3 | **A Novel AI-Driven Anomaly Detection Framework for Predictive Maintenance of Aircraft Engines** | *IEEE Xplore, MEAE 2025* |  **Published** [DOI](https://doi.org/10.1109/MEAE68077.2025.11557878
-        
-        
-        
-        ) |
-| 4 | **Static Structural Analysis and Material Selection of a Supersonic Fighter Aircraft's Wing** | *AIAA Student Conference VII, 2025* |  **Published** [DOI](https://doi.org/10.2514/6.2025-106584
-        
-        
-        
-        ) |
+| 3 | **A Novel AI-Driven Anomaly Detection Framework for Predictive Maintenance of Aircraft Engines** | *IEEE Xplore, MEAE 2025* |  **Published** [DOI](https://doi.org/10.1109/MEAE68077.2025.11557878) |
+| 4 | **Static Structural Analysis and Material Selection of a Supersonic Fighter Aircraft's Wing** | *AIAA Student Conference VII, 2025* |  **Published** [DOI](https://doi.org/10.2514/6.2025-106584) |
 
 ---
 
