@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Jolok Banarjee
 
-### 🚀 Aerospace Engineer | 🤖 ML for Predictive Maintenance | 📡 Autonomous Systems
+### Aerospace Engineer | ML for Predictive Maintenance | Autonomous Systems
 
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jolok-banarjee.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jolok-banarjee-16825b1b7/)
@@ -19,11 +19,11 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 
 > *"Research is not complete when the model converges; it is complete when the solution actually reaches the people who need it."*
 
-- 🎓 **B.Sc. Aerospace Engineering** @ Aviation and Aerospace University, Bangladesh (CGPA: 3.56/4.00)
-- 🏆 **Best Thesis Award 2025** — End-to-end ML-driven turbofan prognostics
-- 📜 **Patent Holder** — Bangla voice-command UAV system (No. 1007044)
-- 🥇 **AIAA Award Winner** — 2nd & 3rd Place, Student Conference VII 2025
-- 🌐 **NASA Space Apps** — 1st Runner Up, Bangladesh 2023
+-  **B.Sc. Aerospace Engineering** @ Aviation and Aerospace University, Bangladesh (CGPA: 3.56/4.00)
+-  **Best Thesis Award 2025** — End-to-end ML-driven turbofan prognostics
+-  **Patent Holder** — Bangla voice-command UAV system (No. 1007044)
+-  **AIAA Award Winner** — 2nd & 3rd Place, Student Conference VII 2025
+-  **NASA Space Apps** — 1st Runner Up, Bangladesh 2023
 
 ---
 
@@ -31,14 +31,22 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 
 | # | Title | Venue | Status |
 |---|-------|-------|--------|
-| 1 | **An AI-Driven Integrated Framework for Turbofan Engine Health Monitoring, Fault Diagnosis, and Prognostics** | *Aerospace Science & Technology, Elsevier* | 🔍 Under Review |
-| 2 | **Sustainable Additive Manufacturing using rPET: Extrusion Design, Mechanical Testing, and Data-Driven Prediction** | *Manuscript Ready* | 📝 Ready |
-| 3 | **A Novel AI-Driven Anomaly Detection Framework for Predictive Maintenance of Aircraft Engines** | *IEEE Xplore, MEAE 2025* | ✅ **Published** [DOI](https://doi.org/10.1109/MEAE68077.2025.11557878) |
-| 4 | **Static Structural Analysis and Material Selection of a Supersonic Fighter Aircraft's Wing** | *AIAA Student Conference VII, 2025* | ✅ **Published** [DOI](https://doi.org/10.2514/6.2025-106584) |
+| 1 | **An AI-Driven Integrated Framework for Turbofan Engine Health Monitoring, Fault Diagnosis, and Prognostics** | *Aerospace Science & Technology, Elsevier* |  Under Review |
+| 2 | **Sustainable Additive Manufacturing using rPET: Extrusion Design, Mechanical Testing, and Data-Driven Prediction** | *Manuscript Ready* |  Ready |
+| 3 | **A Novel AI-Driven Anomaly Detection Framework for Predictive Maintenance of Aircraft Engines** | *IEEE Xplore, MEAE 2025* |  **Published** [DOI](https://doi.org/10.1109/MEAE68077.2025.11557878
+        
+        
+        
+        ) |
+| 4 | **Static Structural Analysis and Material Selection of a Supersonic Fighter Aircraft's Wing** | *AIAA Student Conference VII, 2025* |  **Published** [DOI](https://doi.org/10.2514/6.2025-106584
+        
+        
+        
+        ) |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming & AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -71,13 +79,13 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 
 <div align="center">
 
-| 🛩️ **Turbofan PdM** | 🌍 **Weather Satellite** | 🗣️ **Voice UAV** |
+| **Turbofan PdM** | **Weather Satellite** | **Voice UAV** |
 |:---:|:---:|:---:|
 | End-to-end ML framework for engine health monitoring | Automated AWS ground station for NOAA satellite data | Bangla voice-controlled emergency response UAV |
 | Bi-LSTM + Transformers + SHAP explainability | SDR + Raspberry Pi + 24/7 cloud pipeline | Google Cloud STT + MAVLink + Patent No. 1007044 |
 | `Python` `TensorFlow` `FastAPI` `Streamlit` | `Python` `AWS S3` `SDR` `Raspberry Pi` | `Python` `Arduino` `MAVProxy` `GCP` |
 
-| ♻️ **rPET AM** | ✈️ **Sky Sentinel S26** | 🚁 **Medical UAV** |
+| ♻️ **rPET AM** | **Sky Sentinel S26** | **Medical UAV** |
 |:---:|:---:|:---:|
 | Recycled PET to structural-grade 3D printing filament | Supersonic air defense interceptor design | 5kg payload, 100km range medical delivery drone |
 | 45.31 MPa UTS, 8.7% elongation, XGBoost prediction | Mach 2.2, 254 m/s climb, AIAA 3rd Place | BDT 55L funding, mission-profile optimized |
@@ -100,12 +108,12 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 
 ## 🏆 Honors & Recognition
 
-- 🥇 **Best Thesis Award 2025** — AAUB (Turbofan prognostics framework)
-- 🏅 **Best Aerospace Vehicle Design Award 2025** — AAUB (Sky Sentinel S26)
-- 🥈 **2nd Place** — AIAA Student Conference VII, 2025 (rPET Sustainable AM)
-- 🥉 **3rd Place** — AIAA Student Conference VII, 2025 (Supersonic Wing Analysis)
-- 🚀 **1st Runner Up** — NASA Space Apps Challenge Bangladesh 2023
-- 🤖 **2nd Place** — Kibo Robot Programming Challenge, Bangladesh Region 2023
+- **Best Thesis Award 2025** — AAUB (Turbofan prognostics framework)
+- **Best Aerospace Vehicle Design Award 2025** — AAUB (Sky Sentinel S26)
+- **2nd Place** — AIAA Student Conference VII, 2025 (rPET Sustainable AM)
+- **3rd Place** — AIAA Student Conference VII, 2025 (Supersonic Wing Analysis)
+- **1st Runner Up** — NASA Space Apps Challenge Bangladesh 2023
+- **2nd Place** — Kibo Robot Programming Challenge, Bangladesh Region 2023
 
 ---
 
@@ -113,10 +121,7 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 
 - 📧 **Email:** [jolok21014026@aaub.edu.bd](mailto:jolok21014026@aaub.edu.bd)
 - 💼 **LinkedIn:** [Jolok Banarjee](https://www.linkedin.com/in/jolok-banarjee-16825b1b7/)
-- 🌐 **Portfolio:** [jolok-banarjee.github.io](https://jolok-banarjee.github.io)
 - 🆔 **ORCID:** [0009-0005-9165-2737](https://orcid.org/0009-0005-9165-2737)
-- 📱 **Phone:** +880 1781-675720
-
 ---
 
 <div align="center">
