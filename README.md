@@ -18,7 +18,7 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 
 > *"Research is not complete when the model converges; it is complete when the solution actually reaches the people who need it."*
 
--  **B.Sc. Aerospace Engineering** @ Aviation and Aerospace University, Bangladesh (CGPA: 3.56/4.00)
+-  **B.Sc. Aerospace Engineering** @ Aviation and Aerospace University, Bangladesh
 -  **Best Thesis Award 2025** — End-to-end ML-driven turbofan prognostics
 -  **Patent Holder** — Bangla voice-command UAV system (No. 1007044)
 -  **AIAA Award Winner** — 2nd & 3rd Place, Student Conference VII 2025
