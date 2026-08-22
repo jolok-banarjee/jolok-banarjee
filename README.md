@@ -85,18 +85,6 @@ I'm an **Aerospace Engineer** from Bangladesh with a research focus at the inter
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jolok-banarjee&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jolok-banarjee&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-
-</div>
-
----
-
 ## 🏆 Honors & Recognition
 
 - **Best Thesis Award 2025** — AAUB (Turbofan prognostics framework)
